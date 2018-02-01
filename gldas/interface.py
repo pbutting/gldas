@@ -419,3 +419,5 @@ class GLDASTs(GriddedNcOrthoMultiTs):
 
 
 
+if __name__ == '__main__':
+    print('test')
